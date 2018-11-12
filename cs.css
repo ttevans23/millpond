@@ -119,7 +119,7 @@ body {
 	float:right;
 	width:70%;
 	box-sizing: border-box;
-	line-height: 38px;
+	line-height: 12px;
 }
 .tenant .name .title small {
 	color:rgba(255,255,255,0.6);
